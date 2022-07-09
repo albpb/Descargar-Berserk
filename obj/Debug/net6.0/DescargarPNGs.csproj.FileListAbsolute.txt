@@ -1,0 +1,15 @@
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\bin\Debug\net6.0\DescargarPNGs.exe
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\bin\Debug\net6.0\DescargarPNGs.deps.json
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\bin\Debug\net6.0\DescargarPNGs.runtimeconfig.json
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\bin\Debug\net6.0\DescargarPNGs.dll
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\bin\Debug\net6.0\DescargarPNGs.pdb
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\obj\Debug\net6.0\DescargarPNGs.csproj.AssemblyReference.cache
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\obj\Debug\net6.0\DescargarPNGs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\obj\Debug\net6.0\DescargarPNGs.AssemblyInfoInputs.cache
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\obj\Debug\net6.0\DescargarPNGs.AssemblyInfo.cs
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\obj\Debug\net6.0\DescargarPNGs.csproj.CoreCompileInputs.cache
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\obj\Debug\net6.0\DescargarPNGs.dll
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\obj\Debug\net6.0\refint\DescargarPNGs.dll
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\obj\Debug\net6.0\DescargarPNGs.pdb
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\obj\Debug\net6.0\DescargarPNGs.genruntimeconfig.cache
+C:\Users\alver\source\repos\DescargarPNGs\DescargarPNGs\obj\Debug\net6.0\ref\DescargarPNGs.dll
